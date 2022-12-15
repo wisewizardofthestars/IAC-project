@@ -1,6 +1,8 @@
 # IAC
-Project for **IAC class** - Introduction to Computer Architecture
+**Introduction to Computer Architecture** (IAC) project
 
-This project consists on a Space Invaders clone mande in _Assembly_ for PEPE-16.
+This project consists of a Space Invaders clone made in _Assembly_ for PEPE-16.
+
+*Final Grade:* 14.5/20
 
 Made by @wisewizardofthestars and @nobnap
